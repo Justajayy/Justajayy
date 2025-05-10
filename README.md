@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Justajayy
-- 👀 I’m interested in designing 
-- 🌱 I’m currently learning... 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in designing and development
+- 🌱 I’m currently learning GenAI
+- 💞️ I’m looking to collaborate on Frontend web development.
 - 📫 How to reach me instagram- @ajay_patil___
 
 <!---
