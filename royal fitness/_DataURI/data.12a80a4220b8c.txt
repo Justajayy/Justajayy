@@ -1,1 +1,0 @@
-chrome-extension://mgjneceglphcpbbfbhjplkpgfapebmdg/assets/fonts/GTSuperDisplay-Light.woff2
